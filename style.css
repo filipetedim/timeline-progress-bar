@@ -1,0 +1,7 @@
+body {
+  background: darkslategray
+}
+
+.timeline-progress-bar__section {
+  height: 5rem;
+}
